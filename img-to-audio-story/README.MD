@@ -12,4 +12,4 @@
 ### Updating
 
 - To update conda env `conda env export > environment.yaml`
-- For deploy `pip list --format=freeze > requirements.txt`
+- For deploy `pip list --format=freeze > requirements.txt` and remove conda deps, black
