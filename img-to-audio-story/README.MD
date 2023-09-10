@@ -12,3 +12,4 @@
 ### Updating
 
 - To update conda env `conda env export > environment.yaml`
+- For deploy `conda list --export > requirements.txt`
