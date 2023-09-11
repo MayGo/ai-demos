@@ -27,7 +27,7 @@ Babel==2.11.*
 backcall==0.2.*
 backports.functools-lru-cache==1.6.*
 backports.tempfile==1.*
-backports.weakref==1.0.post*
+backports.weakref==1.0.*
 bcrypt==3.2.*
 beautifulsoup4==4.12.*
 binaryornot==0.4.*
