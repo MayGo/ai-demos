@@ -4,7 +4,7 @@ aiohttp==3.8.*
 aioitertools==0.7.*
 aiosignal==1.2.*
 aiosqlite==0.18.*
-alabaster==0.7.1*
+alabaster==0.7.*
 altair==5.1.*
 annotated-types==0.5.*
 anyio==3.5.*
@@ -51,7 +51,7 @@ colorcet==3.0.*
 comm==0.1.*
 conda==23.7.*
 conda-build==3.26.*
-conda-content-trust==0+unknow*
+conda-content-trust==*
 conda_index==0.2.*
 conda-libmamba-solver==23.5.*
 conda-pack==0.6.*
@@ -75,10 +75,10 @@ datashape==0.5.*
 debugpy==1.6.*
 decorator==5.1.*
 defusedxml==0.7.*
-diff-match-patch==2020071*
+diff-match-patch==*
 dill==0.3.*
 distributed==2023.6.*
-docstring-to-markdown==0.1*
+docstring-to-markdown==*
 docutils==0.18.*
 entrypoints==0.*
 et-xmlfile==1.1.*
@@ -104,7 +104,7 @@ huggingface-hub==0.15.*
 hvplot==0.8.*
 hyperlink==21.0.*
 idna==3.*
-imagecodecs==2021.8.2*
+imagecodecs==2021.8.*
 imageio==2.31.*
 imagesize==1.4.*
 imbalanced-learn==0.10.*
@@ -268,7 +268,7 @@ python-slugify==5.0.*
 python-snappy==0.6.*
 pytoolconfig==1.2.*
 pytz==2022.*
-pytz-deprecation-shim==0.1.0.post*
+pytz-deprecation-shim==0.1.*
 pyviz-comms==2.3.*
 PyWavelets==1.4.*
 PyYAML==6.*
